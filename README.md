@@ -1,1 +1,1 @@
-This is Erin's first Git project!
+This is Erin's first Git project! I'm going to keep practicing the basic git commands! WOOHOO
